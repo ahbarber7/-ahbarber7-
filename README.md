@@ -1,5 +1,5 @@
-# <ahbarber7>
+# ahbarber7
 
-* Name: <Audrey Barber>
+* Name: Audrey Barber
 * GitHubID: <ahbarber7>
 * NetID: <ahbarber7>
